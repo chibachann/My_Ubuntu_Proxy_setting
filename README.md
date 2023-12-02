@@ -6,4 +6,5 @@ https://abrupt-bike-7aa.notion.site/PC-Ubuntu-ff304d5052dd40f3a787d0bde51831f4?p
 sudo nano ~/.bashrc
 
 export PATH=/usr/local/cuda-12.3/bin:$PATH
+
 export LD_LIBRARY_PATH=/usr/local/cuda-12.3/lib64:$LD_LIBRARY_PATH
